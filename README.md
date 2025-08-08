@@ -4,7 +4,7 @@ A   Gym Website featuring  contact email functionality. Built using Express, Rea
 ## 🚀 Features
 🖥️ Modern and responsive React frontend
 
-💳 Subscription plans (Gold, Silver, Premium)
+💳 Subscription plans 
 
 📬 Contact form with email sending functionality
 
